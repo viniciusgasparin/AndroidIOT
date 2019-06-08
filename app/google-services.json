@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "340459737809",
+    "firebase_url": "https://conclusaoiotandroid.firebaseio.com",
+    "project_id": "conclusaoiotandroid",
+    "storage_bucket": "conclusaoiotandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340459737809:android:3f45eae5ce198459",
+        "android_client_info": {
+          "package_name": "br.com.viniciusildsonhelio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340459737809-5j604rij9gii44ku4bmph0r1aohgo6q8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.viniciusildsonhelio",
+            "certificate_hash": "c5ca72acd5273f5e22f066b3bc523ee3544df9b2"
+          }
+        },
+        {
+          "client_id": "340459737809-hov4a84eoorldpgnkvl3lvlj5fq0ntn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4KrCsoxTIq-ZLnbSPuteLGK3owtdiNCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340459737809-hov4a84eoorldpgnkvl3lvlj5fq0ntn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
